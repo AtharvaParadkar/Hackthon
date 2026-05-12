@@ -6,7 +6,7 @@ A full-stack Insurance claim application consisting of:
 
 
 
-\- \*\*Raag Aap\*\* — Mobile App (React Native)
+\- \*\*BFSI Aap\*\* — Mobile App (Flutter)
 
 \- \*\*Backend\*\* — Node.js REST API
 
@@ -26,7 +26,7 @@ A full-stack Insurance claim application consisting of:
 
 /
 
-├── raag-app/        # Raag Aap — Mobile Application
+├── bfsi-app/        # BFSI Aap — Mobile Application
 
 ├── backend/       # Node.js Backend API
 
@@ -40,11 +40,11 @@ A full-stack Insurance claim application consisting of:
 
 
 
-\## 📱 Raag Aap — Mobile App
+\## 📱 BFSI Aap — Mobile App
 
 
 
-\*\*Raag Aap\*\* is the mobile application built with React Native. It is the primary app through which users interact with the Raag platform on their smartphones.
+\*\*BFSI Aap\*\* is the mobile application built with Flutter. It is the primary app through which users interact with the BFSI platform on their smartphones.
 
 
 
@@ -52,11 +52,7 @@ A full-stack Insurance claim application consisting of:
 
 
 
-\- Node.js (v18 or above)
-
-\- npm or yarn
-
-\- Expo CLI / React Native CLI
+\- Flutter SDK
 
 \- Android Studio (for Android) or Xcode (for iOS)
 
@@ -70,31 +66,21 @@ A full-stack Insurance claim application consisting of:
 
 \# 1. Navigate to the mobile directory
 
-cd raag-app
+cd bfsi_app
 
 
 
 \# 2. Install dependencies
 
-npm install
+flutter pub get
 
 
 
 \# 3. Start the app
 
-npm start
+flutter run
 
 
-
-\# For Android
-
-npm run android
-
-
-
-\# For iOS
-
-npm run ios
 
 ```
 
@@ -258,7 +244,7 @@ To run all three parts together, open \*\*three separate terminals\*\*:
 
 | 2        | `frontend/`| `npm start`   |
 
-| 3        | `raag-app/`  | `npm start`   |
+| 3        | `bfsi_app/`  | `flutter run`   |
 
 
 
@@ -274,7 +260,7 @@ To run all three parts together, open \*\*three separate terminals\*\*:
 
 |----------|---------------------|
 
-| Mobile   | React Native (Expo) |
+| Mobile   | Flutter |
 
 | Backend  | Node.js, Express    |
 
