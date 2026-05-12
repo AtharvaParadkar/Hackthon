@@ -1,4 +1,4 @@
-\#  Raag App
+\#  BFSI App
 
 
 
@@ -6,7 +6,7 @@ A full-stack Insurance claim application consisting of:
 
 
 
-\- \*\*BFSI Aap\*\* — Mobile App (Flutter)
+\- \*\*BFSI App\*\* — Mobile App (Flutter)
 
 \- \*\*Backend\*\* — Node.js REST API
 
@@ -44,7 +44,7 @@ A full-stack Insurance claim application consisting of:
 
 
 
-\*\*BFSI Aap\*\* is the mobile application built with Flutter. It is the primary app through which users interact with the BFSI platform on their smartphones.
+\*\*BFSI App\*\* is the mobile application built with Flutter. It is the primary app through which users interact with the BFSI platform on their smartphones.
 
 
 
